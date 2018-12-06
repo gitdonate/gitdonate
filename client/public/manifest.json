@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GitDonate",
+  "name": "Git Donate - the best github open-source donation tool using crypto",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "gitdonate_icon_v0_0_1.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
